@@ -1,0 +1,44 @@
+version: "2"
+services:
+  mydb:
+    container_name: "mydb"
+    ports:
+      - "3306:3306"
+    volumes: #挂载的目录写在这里
+            - /Users/wenba/Documents/www-docker/test-compose/server/mysql:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+    image: mysql:8.0 # 容器引用镜像
+  myredis:
+    container_name: "myredis"
+    restart: always
+    ports:
+      - "6378:6378"
+    volumes:
+      - /Users/wenba/Documents/www-docker/test-compose/server/redis:/data
+    image: redis:3.2
+  myphp:
+    container_name: "myphp"
+    restart: always
+    ports:
+        - "9002:9002"
+    volumes:
+        - /Users/wenba/Documents/www:/var/www/html
+        - /Users/wenba/Documents/www-docker/test-compose/server/php:/usr/local/etc/php
+    links:
+        - "mydb"
+        - "myredis"
+    image: php:7.2-fpm
+  mynginx:
+    container_name: "mynginx"
+    restart: always
+    ports:
+        - "83:83"
+    links:
+        - "myphp"
+    volumes:
+        - /Users/wenba/Documents/www:/usr/share/nginx/html
+        - /Users/wenba/Documents/www-docker/test-compose/server/nginx:/etc/nginx
+        - /Users/wenba/Documents/www-docker/test-compose/nginx.logs:/var/log/nginx
+    image: nginx:latest
+

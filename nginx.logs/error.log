@@ -1,0 +1,101 @@
+2020/06/16 08:27:00 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:12:07 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:12:10 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:12:13 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:12:15 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:12:18 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:12:21 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:12:25 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:12:32 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:12:46 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:13:12 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:14:04 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:15:05 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:16:05 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:17:06 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:18:07 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:19:08 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:20:08 [emerg] 1#1: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2020/06/16 09:21:09 [emerg] 1#1: no "events" section in configuration
+2020/06/16 09:22:10 [emerg] 1#1: no "events" section in configuration
+2020/06/16 09:23:11 [emerg] 1#1: no "events" section in configuration
+2020/06/16 09:24:11 [emerg] 1#1: no "events" section in configuration
+2020/06/16 09:25:12 [emerg] 1#1: no "events" section in configuration
+2020/06/16 09:26:13 [emerg] 1#1: no "events" section in configuration
+2020/06/16 09:27:13 [emerg] 1#1: no "events" section in configuration
+2020/06/16 09:28:14 [emerg] 1#1: getpwnam("www") failed in /etc/nginx/nginx.conf:1
+2020/06/16 09:29:15 [emerg] 1#1: getpwnam("www") failed in /etc/nginx/nginx.conf:1
+2020/06/16 09:30:16 [emerg] 1#1: getpwnam("www") failed in /etc/nginx/nginx.conf:1
+2020/06/16 09:31:17 [emerg] 1#1: getpwnam("www") failed in /etc/nginx/nginx.conf:1
+2020/06/16 09:32:17 [emerg] 1#1: getpwnam("www") failed in /etc/nginx/nginx.conf:1
+2020/06/16 09:33:18 [emerg] 1#1: getpwnam("www") failed in /etc/nginx/nginx.conf:1
+2020/06/16 09:34:19 [emerg] 1#1: getpwnam("www") failed in /etc/nginx/nginx.conf:1
+2020/06/16 09:35:19 [emerg] 1#1: open() "/etc/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:12
+2020/06/16 09:36:20 [emerg] 1#1: open() "/etc/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:12
+2020/06/16 09:37:21 [emerg] 1#1: open() "/etc/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:12
+2020/06/16 09:38:22 [emerg] 1#1: open() "/etc/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:12
+2020/06/16 09:39:22 [emerg] 1#1: open() "/etc/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:12
+2020/06/16 09:40:23 [emerg] 1#1: open() "/etc/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:12
+2020/06/16 09:41:24 [emerg] 1#1: open() "/etc/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:12
+2020/06/16 09:42:25 [emerg] 1#1: open() "/etc/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:12
+2020/06/16 09:43:25 [emerg] 1#1: open() "/etc/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:12
+2020/06/16 09:44:26 [emerg] 1#1: open() "/etc/nginx/conf/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:12
+2020/06/16 10:16:24 [emerg] 1#1: unknown log format "main" in /etc/nginx/nginx.conf:24
+2020/06/16 10:16:27 [emerg] 1#1: unknown log format "main" in /etc/nginx/nginx.conf:24
+2020/06/16 10:16:29 [emerg] 1#1: unknown log format "main" in /etc/nginx/nginx.conf:24
+2020/06/16 10:16:31 [emerg] 1#1: unknown log format "main" in /etc/nginx/nginx.conf:24
+2020/06/16 10:16:33 [emerg] 1#1: unknown log format "main" in /etc/nginx/nginx.conf:24
+2020/06/16 10:16:35 [emerg] 1#1: unknown log format "main" in /etc/nginx/nginx.conf:24
+2020/06/16 10:16:39 [emerg] 1#1: unknown log format "main" in /etc/nginx/nginx.conf:24
+2020/06/16 10:18:51 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:18:51 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:18:59 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:18:59 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/"
+2020/06/16 10:19:07 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:19:07 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/index.php"
+2020/06/16 10:19:30 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:19:30 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:19:36 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:19:36 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:26:37 [error] 6#6: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:26:37 [error] 6#6: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:26:38 [error] 6#6: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:26:38 [error] 6#6: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:31:16 [error] 6#6: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /index HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:31:16 [error] 6#6: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/index"
+2020/06/16 10:31:18 [error] 6#6: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /index HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:31:18 [error] 6#6: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/index"
+2020/06/16 10:31:19 [error] 6#6: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /index HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:31:19 [error] 6#6: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/index"
+2020/06/16 10:31:19 [error] 6#6: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /index HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:31:20 [error] 6#6: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/index"
+2020/06/16 10:31:26 [error] 6#6: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/index.html"
+2020/06/16 10:32:59 [error] 6#6: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:33:00 [error] 6#6: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:34:07 [error] 6#6: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:34:07 [error] 6#6: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:38:51 [error] 8#8: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:38:51 [error] 8#8: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:38:52 [error] 8#8: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:38:52 [error] 8#8: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:43:44 [error] 8#8: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/index.html"
+2020/06/16 10:43:54 [error] 8#8: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83"
+2020/06/16 10:43:55 [error] 8#8: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:56:53 [error] 7#7: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83"
+2020/06/16 10:56:53 [error] 7#7: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:56:54 [error] 7#7: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83"
+2020/06/16 10:56:54 [error] 7#7: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:56:54 [error] 7#7: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83"
+2020/06/16 10:56:54 [error] 7#7: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:56:54 [error] 7#7: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83"
+2020/06/16 10:56:54 [error] 7#7: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 10:56:54 [error] 7#7: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83"
+2020/06/16 10:56:54 [error] 7#7: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 11:00:29 [error] 7#7: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83"
+2020/06/16 11:00:29 [error] 7#7: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 11:00:29 [error] 7#7: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83"
+2020/06/16 11:00:29 [error] 7#7: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 11:00:30 [error] 7#7: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83"
+2020/06/16 11:00:30 [error] 7#7: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
+2020/06/16 11:00:30 [error] 7#7: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /phpinfo.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83"
+2020/06/16 11:00:30 [error] 7#7: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9002", host: "127.0.0.1:83", referrer: "http://127.0.0.1:83/phpinfo.php"
